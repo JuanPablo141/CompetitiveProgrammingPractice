@@ -1,4 +1,4 @@
-/*https://neps.academy/br/exercise/110*/
+// https://neps.academy/br/exercise/110
 
 #include <iostream>
 using namespace std;

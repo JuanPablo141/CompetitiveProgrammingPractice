@@ -1,4 +1,4 @@
-/*https://neps.academy/br/exercise/52*/
+// https://neps.academy/br/exercise/52
 
 #include <iostream>
 
